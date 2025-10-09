@@ -230,9 +230,8 @@ Alone we can do so little; together we can do so much.
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://git.io/streak-stats" alt="share21106"><img align="left" width=396 src="https://streak-stats.demolab.com?user=share21106&theme=dark&hide_border=true&border_radius=6&short_numbers=true&mode=weekly" alt="share21106" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=share21106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=share21106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br>
