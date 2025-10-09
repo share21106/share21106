@@ -1,6 +1,6 @@
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 ![](./profile-3d-contrib/profile-night-view.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+New+Dragon+Warrior.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+A+Good+Helper.;I+AM+A+AI+AND+BLOCKCHAIN+AND+FULLSTACK+DEVELOPER.;AI+AND+BLOCKCHAIN+AND+FULLSTACK+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
     I WILL OFFER GOOD SOLUTION.
     </h2>
@@ -231,23 +231,23 @@ Alone we can do so little; together we can do so much.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=webpointdev&theme=react&border=61dafb&hide_border=true" alt="webpointdev" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=share21106&theme=react&border=61dafb&hide_border=true" alt="share21106" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=webpointdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=share21106&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webpointdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=share21106&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   <br>
   <br>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=share21106&theme=monokai"/>
   </div>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=share21106&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
   
   <br>
 </p>
