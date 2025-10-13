@@ -213,9 +213,6 @@ Alone we can do so little; together we can do so much.
   <a href="https://vuetifyjs.com/en/" target="_blank">
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" height="25"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" height="25"/>
-  </a>
 </p>
 <hr>
 <br>
